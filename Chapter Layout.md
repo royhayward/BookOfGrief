@@ -1,6 +1,9 @@
 # Chapter Outline
 
-## Preface: What is this book about?
+## Preface:
+### What is this book about?
+### Who is this book for?
+### How can you use this book?
 
 ## 1. What is Grief?
 ### a. A definition
@@ -35,7 +38,6 @@
 ### c. Grief can return annually like a birthday or anniversary.
 ### d. Grief can be triggered by memories at any time, and any place.
 ### e. Grief can become a familiar old injury. Because that is what it is.
-
 
 ## 7. Finding help and support
 ### a. Finding help and support in a marriage
