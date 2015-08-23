@@ -2,6 +2,7 @@
 
 ## Preface:
 ### What is this book about?
+### What is in this book?
 ### Who is this book for?
 ### How can you use this book?
 
